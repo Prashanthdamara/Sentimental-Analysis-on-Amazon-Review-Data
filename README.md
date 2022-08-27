@@ -12,7 +12,7 @@ Reviews from Oct 1999 - Oct 2012 - 568,454 reviews
 
 260 users with > 50 reviews
 
-### Text file link : https://drive.google.com/file/d/14_-Jkd9Cj5Vxr08xCbpzA8dWYYzNu440/view
+### Text files link : https://drive.google.com/file/d/14_-Jkd9Cj5Vxr08xCbpzA8dWYYzNu440/view
 
 ### Task here is to transform the given data(i.e. Text files) to tabular format(i.e. csv file). The columns in the table should be:
 
